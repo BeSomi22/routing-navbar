@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/routing-navbar/static/css/main.1c599b41.css",
+    "main.js": "/routing-navbar/static/js/main.6b76546f.js",
+    "static/js/453.62d1622d.chunk.js": "/routing-navbar/static/js/453.62d1622d.chunk.js",
+    "index.html": "/routing-navbar/index.html",
+    "main.1c599b41.css.map": "/routing-navbar/static/css/main.1c599b41.css.map",
+    "main.6b76546f.js.map": "/routing-navbar/static/js/main.6b76546f.js.map",
+    "453.62d1622d.chunk.js.map": "/routing-navbar/static/js/453.62d1622d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c599b41.css",
+    "static/js/main.6b76546f.js"
+  ]
+}
